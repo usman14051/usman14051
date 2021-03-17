@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Muhammad Usman
+- 👀 I’m interested in python| data science 
